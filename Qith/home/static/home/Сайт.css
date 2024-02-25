@@ -1,0 +1,29 @@
+.AkamegaKill th, .AkamegaKill td{
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #fff; 
+}
+
+.AkamegaKill th{
+    background-color: #08d7d3;
+    color: #fff;
+}
+.AkamegaKill td#old {
+    background-color: #08d7d3;
+    color: #fff;
+}
+
+.AkamegaKill tr.a:nth-child(even) {
+    background: #ececec;
+}
+
+.AkamegaKill tr.a{
+	transition: all .3s;
+    line-height: 20px;
+    border: 1px solid #fff; 
+}
+
+.AkamegaKill tr.a:hover{
+	background-color: #ccc;
+}
+
